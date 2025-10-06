@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-School-Shootings-in-the-U.S.-Demographic-Economic-Correlates
+GIS-based analysis exploring relationships between U.S. school shootings and socio-economic factors like population density, unemployment, and student enrollment. Used ArcGIS Pro for spatial joins, buffer, and hotspot analysis. Findings show no single factor predicts incidents—multiple variables influence outcomes.
